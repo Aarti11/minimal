@@ -1,3 +1,3 @@
 # Project 1
 
-Fraud Detection
+Fraud Detection Model
